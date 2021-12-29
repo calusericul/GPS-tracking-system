@@ -1,0 +1,26 @@
+html{
+scroll-behavior: smooth;
+}
+
+
+.bg-myRed{
+ background-color: crimson;
+}
+.content{
+  padding: 12px;
+  height: 2000px;
+}
+.coloring{
+  color: black;
+}
+
+.anchor{
+  display: block;
+  position: relative;
+  visibility: hidden;
+  top:-78px;
+}
+.centerText {
+  text-align: center; /* This puts the text into the center of the 
+  screen. */
+}
